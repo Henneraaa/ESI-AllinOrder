@@ -1,5 +1,3 @@
-ALL IN ORDER
-Descrição do projeto
 O ALL IN ORDER é um sistema de gestão financeira e acompanhamento de
 obras, destinado a apoiar empresas e profissionais do setor da
 construção civil na organização dos seus projetos.
