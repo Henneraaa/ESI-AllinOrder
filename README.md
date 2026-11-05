@@ -1,43 +1,35 @@
-All in Order APP - Engenharia de Software I
+ALL IN ORDER
+Descrição do projeto
+O ALL IN ORDER é um sistema de gestão financeira e acompanhamento de
+obras, destinado a apoiar empresas e profissionais do setor da
+construção civil na organização dos seus projetos.
 
-a) Objetivo – O que o sistema fará?
+A versão web pretende disponibilizar, através de um navegador,
+funcionalidades para criar e gerir obras, definir orçamentos, registar
+despesas e acompanhar a execução financeira de cada projeto. O sistema
+deverá permitir consultar os valores orçamentados, os custos registados
+e o saldo disponível, facilitando o controlo financeiro e a tomada de
+decisões.
 
-O All in Order APP é uma aplicação web de gestão de orçamentos concebida para auxiliar pequenos e médios empreiteiros. O sistema centraliza a informação financeira e operacional de projetos de construção, permitindo o controlo em tempo real de custos, despesas, pagamentos e progresso físico (comparativo físico vs. financeiro), além de fornecer análises de desvios e relatórios.
+Este projeto corresponde à evolução da aplicação desktop ALL IN ORDER
+para uma plataforma web, no âmbito da unidade curricular de Engenharia
+de Software.
+Principais funcionalidades previstas
+- Autenticação de utilizadores.
+- Criação, consulta, edição e eliminação de obras.
+- Registo de informação de cada obra, incluindo nome, morada e
+  orçamento inicial.
+- Registo e organização de despesas por categoria.
+- Consulta do histórico de despesas.
+- Cálculo automático dos custos totais e do saldo disponível.
+- Dashboard com indicadores financeiros das obras.
+- Geração e exportação de relatórios em PDF.
+Nota: as funcionalidades apresentadas constituem a proposta inicial
+para a versão web e poderão ser ajustadas durante o desenvolvimento e
+validação dos requisitos.
 
-b) Escopo - Indicativo de onde pode ser usado
-
-O sistema pode ser utilizado no setor da construção civil, sendo direcionado para:
-
-Pequenas e médias empresas empreiteiras.
-
-Gabinetes de gestão de projetos e fiscalização de obras.
-
-Empreiteiros independentes e gestores de obra autónomos.
-
-c) Partes interessadas (stakeholders) – Quem usará o sistema? Quem se beneficiará?
-
-Administradores / Gestores de Obra: Utilizadores principais que criam projetos, registam despesas, gerem orçamentos e acompanham o fluxo de caixa.
-
-Clientes Finais: Beneficiam indiretamente através da transparência e da receção de relatórios detalhados e extratos de conta profissionais em formato PDF.
-
-d) Equipe do projeto (Time de Desenvolvimento)
-
-Renato Santos
-
-Henner Santos
-
-Analiel Teixeira
-
-Willbon
-
-e) Características do sistema – Lista de Funcionalidades
-
-Autenticação e Controlo de Acessos: Gestão de utilizadores com perfis distintos e assistente de configuração inicial (first-run wizard).
-
-Gestão de Obras: Registo detalhado de projetos, incluindo orçamentos, datas, clientes e estado atual.
-
-Controlo Financeiro e de Despesas: Categorização de custos (mão de obra, materiais, subempreitadas) com cálculo dinâmico de saldos.
-
-Dashboard Inteligente (BI): Apresentação de KPIs em tempo real e gráficos comparativos de orçamento versus gasto real.
-
-Exportação de Relatórios: Geração automática de extratos de conta e relatórios profissionais em PDF para comunicação com o cliente.
+Participantes
+- Renato Santos
+- Henner Santos
+- Analiel Ricardo
+- Willbon
